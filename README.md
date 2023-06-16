@@ -14,7 +14,7 @@
 
 # Arquitetura utilizada
 
-![alt text](https://github.com/herdersoncouto/softwareagingdatabase/blob/main/Resumo.png)
+![alt text](https://github.com/herdersoncouto/softwareagingdatabase/blob/main/Cliente-Servidor.JPG)
 
 # Scripts e plano de teste utilizado
 Para ver os scripts utilizados no trabalho, bem como o plano de teste [clique aqui](https://www.dropbox.com/scl/fo/zgcay0ymkfjnxz7zodane/h?dl=0&rlkey=n2ozc4b4e5fim7rc3has9bpgk).
