@@ -18,3 +18,15 @@
 # Scripts e plano de teste utilizado
 
 Para visualizar os scripts utilizados no trabalho, bem como o plano de teste, [clique aqui](https://www.dropbox.com/scl/fo/zgcay0ymkfjnxz7zodane/h?dl=0&rlkey=n2ozc4b4e5fim7rc3has9bpgk).
+
+**Intruções para execurtar os scripts de monitoramento:**
+
+1 - Os scripts de monitoramento devem ficar no mesmo diretório;
+2 - Excecutar script "startmonito.sh" para iniciar o monitoramento de memória RAM e CPU;
+3 - Executar o script "startprocess.sh" para iniciar o monitoramento de processos.
+
+**Intruções para uso do JMeter:**
+
+1 - O plano de teste deve ser aberto pela ferramenta (JMeter 5.4.1)  
+2 - Os parâmetros de teste devem ser alterados conforme a carga escolhida;
+3 - Os dados dos testes serão salvos conforme o destino escolhido no na tabela de resultados. 
