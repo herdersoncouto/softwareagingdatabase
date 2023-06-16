@@ -2,7 +2,7 @@
 
 **Autores:** Herderson Couto¹, Ermeson Andrade¹, Francisco Airton Silva², Gustavo Callou¹
 
-**¹Universidade Federal Rural de Pernambuco (UFRPE) - Recife, PE - Brasil **
+**¹Universidade Federal Rural de Pernambuco (UFRPE) - Recife, PE - Brasil**
 
 **²Universidade Federal do Piauí (UFPI) - Picos, PI - Brasil**
 
