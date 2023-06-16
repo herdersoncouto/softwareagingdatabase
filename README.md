@@ -2,9 +2,9 @@
 
 **Autores:** Herderson Couto¹, Ermeson Andrade¹, Francisco Airton Silva², Gustavo Callou¹
 
-¹Universidade Federal Rural de Pernambuco (UFRPE - Recife, PE - Brasil, 
+**¹Universidade Federal Rural de Pernambuco (UFRPE) - Recife, PE - Brasil **
 
-²Universidade Federal do Piauí (UFPI) - Picos, PI - Brasil,
+**²Universidade Federal do Piauí (UFPI) - Picos, PI - Brasil**
 
 # Resumo gráfico
 ![alt text](https://github.com/herdersoncouto/softwareagingdatabase/blob/main/Resumo.png)
@@ -17,4 +17,4 @@
 
 # Scripts e plano de teste utilizado
 
-Para ver os scripts utilizados no trabalho, bem como o plano de teste [clique aqui](https://www.dropbox.com/scl/fo/zgcay0ymkfjnxz7zodane/h?dl=0&rlkey=n2ozc4b4e5fim7rc3has9bpgk).
+Para visualizar os scripts utilizados no trabalho, bem como o plano de teste, [clique aqui](https://www.dropbox.com/scl/fo/zgcay0ymkfjnxz7zodane/h?dl=0&rlkey=n2ozc4b4e5fim7rc3has9bpgk).
