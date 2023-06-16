@@ -3,9 +3,7 @@
 **Autores:** Herderson Couto¹, Ermeson Andrade¹, Francisco Airton Silva², Gustavo Callou¹
 
 ¹Universidade Federal Rural de Pernambuco (UFRPE - Recife, PE - Brasil, 
-{herderson.couto, gustavo.callou, ermeson.andrade}@ufrpe.br 
 ²Universidade Federal do Piauí (UFPI) - Picos, PI - Brasil,
- faps@ufpi.edu.br 
 
 # Resumo gráfico
 ![alt text](https://github.com/herdersoncouto/softwareagingdatabase/blob/main/Resumo.png)
