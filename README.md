@@ -23,14 +23,16 @@ Para visualizar os scripts utilizados no trabalho, bem como o plano de teste, [c
 
 1 - Os scripts de monitoramento devem ficar no mesmo diretório;
 
-2 - Excecutar script "startmonito.sh" para iniciar o monitoramento de memória RAM e CPU;
+2 - Executar o script "startmonitor.sh" para iniciar o monitoramento de memória RAM e CPU;
 
 3 - Executar o script "startprocess.sh" para iniciar o monitoramento de processos.
 
 **Instruções para uso do JMeter:**
 
-1 - O plano de teste deve ser aberto pela ferramenta (JMeter 5.4.1); 
+1 - O cenector JDBC do PostgreSQL deve ficar na pasta "/lib" do Apache JMeter;
 
-2 - Os parâmetros de teste devem ser alterados conforme a carga escolhida;
+2 - O plano de teste deve ser aberto pela ferramenta (JMeter 5.4.1); 
 
-3 - Os dados dos testes serão salvos conforme o destino escolhido no na tabela de resultados. 
+3 - Os parâmetros de teste devem ser alterados conforme a carga escolhida;
+
+4 - Os dados dos testes serão salvos de acordo com o destino escolhido na tabela de resultados.
